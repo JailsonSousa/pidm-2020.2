@@ -2,6 +2,10 @@
 
 Para mais detalhes sobre a atividade [clique aqui](https://github.com/JailsonSousa/pidm-2020.2/blob/main/atv01/ATV1.pdf).
 
+Resultado da atividade
+
+![Resultado da atividade](https://github.com/JailsonSousa/pidm-2020.2/blob/main/atv01/ATV1.jpeg)
+
 Nessa atividade fiz algumas adaptações, segue abaixo:
 
  - Fiz a utilização de typescript para fazer a tipagem dos objetivos passados via props
