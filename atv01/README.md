@@ -1,6 +1,6 @@
 ## Atividade  01
 
-Para mais detalhes sobre a atividade [clique aqui](https://github.com/jeffersoncarvalho/pidm-2020_2/blob/master/ATIVIDADES/ATV1.pdf).
+Para mais detalhes sobre a atividade [clique aqui](https://github.com/JailsonSousa/pidm-2020.2/blob/main/atv01/ATV1.pdf).
 
 Nessa atividade fiz algumas adaptações, segue abaixo:
 
