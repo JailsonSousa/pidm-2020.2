@@ -2,9 +2,9 @@
 
 Para mais detalhes sobre a atividade [clique aqui](https://github.com/JailsonSousa/pidm-2020.2/blob/main/atv01/ATV1.pdf).
 
-Resultado da atividade
 
 <p align="center">
+  Resultado da atividade
   <img src="https://github.com/JailsonSousa/pidm-2020.2/blob/main/atv01/ATV1.jpeg" alt="Resultado da atividade"/>
 </p>
 
