@@ -4,7 +4,9 @@ Para mais detalhes sobre a atividade [clique aqui](https://github.com/JailsonSou
 
 Resultado da atividade
 
-![Resultado da atividade](https://github.com/JailsonSousa/pidm-2020.2/blob/main/atv01/ATV1.jpeg)
+<p align="center">
+  <img src="https://github.com/JailsonSousa/pidm-2020.2/blob/main/atv01/ATV1.jpeg" alt="Resultado da atividade"/>
+</p>
 
 Nessa atividade fiz algumas adaptações, segue abaixo:
 
