@@ -17,7 +17,7 @@ Link para baixar o APK: [clique aqui](https://drive.google.com/file/d/1AwaptIKgd
 Fiz a mudança do entry point da pasta raiz para **_"./src"_** afim de centralizar todo código da aplicação na pasta **_src_**.
 
 Padronizei o projeto com [ESLint](https://eslint.org/), [Prettier](https://prettier.io/) e [EditorConfig](https://editorconfig.org/).
-Para mais detalhes [clique aqui](https://www.notion.so/Padr-es-de-projeto-com-ESLint-Prettier-e-EditorConfig-0b57b47a24724c859c0cf226aa0cc3a7
+Para mais detalhes [clique aqui](https://www.notion.so/Padr-es-de-projeto-com-ESLint-Prettier-e-EditorConfig-0b57b47a24724c859c0cf226aa0cc3a7)
 
 ## Tecnologias Utilizadas
 
