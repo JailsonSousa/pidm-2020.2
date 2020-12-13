@@ -25,10 +25,14 @@ Para mais detalhes [clique aqui](https://www.notion.so/Padr-es-de-projeto-com-ES
 
 - [Typescript](https://www.typescriptlang.org/)
 
-- [Styled Components](https://styled-components.com/)
+- [Context API](https://pt-br.reactjs.org/docs/context.html)
 
-- [Lottie](https://airbnb.design/lottie/)
+- [Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
 
 - [React Native Router Flux](https://github.com/aksonov/react-native-router-flux)
 
 - [Async Storage](https://react-native-async-storage.github.io/async-storage/)
+
+- [Styled Components](https://styled-components.com/)
+
+- [Lottie](https://airbnb.design/lottie/)
