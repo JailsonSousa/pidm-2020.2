@@ -1,4 +1,4 @@
-## Atividade 02
+## Atividade 03
 
 > Objetivo dessa atividade é criar um app para calcular o IMC
 
