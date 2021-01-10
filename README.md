@@ -6,6 +6,7 @@ Lista de atividades:
 
 - [Atividade 01](https://github.com/JailsonSousa/pidm-2020.2/tree/main/atv01)
 - [Atividade 02](https://github.com/JailsonSousa/pidm-2020.2/tree/main/atv02)
+- [Atividade 03](https://github.com/JailsonSousa/pidm-2020.2/tree/main/atv03)
 
 Tecnologias utilizadas na disciplina:
 
